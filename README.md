@@ -4,9 +4,9 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visitez_Mon_Portfolio-sohaib--laarichi.netlify.app-2ea44f?style=for-the-badge&logo=netlify)](https://sohaib-laarichi.netlify.app/)
 
-[cite_start]Actuellement étudiant en 5ème année à l'EMSI Marrakech[cite: 3], je conçois des applications web modernes, robustes et scalables. [cite_start]Je combine une expertise en **Frontend (React/Next.js)** et en **Backend (Spring Boot/Node.js)** [cite: 12, 13] avec une forte sensibilité pour le DevOps et le Cloud.
+Actuellement étudiant en 5ème année à l'EMSI Marrakech, je conçois des applications web modernes, robustes et scalables. Je combine une expertise en **Frontend (React/Next.js)** et en **Backend (Spring Boot/Node.js)** avec une forte sensibilité pour le DevOps et le Cloud.
 
-[cite_start]🚀 **À la recherche d'un Stage de Fin d'Études (PFE) de 4 à 6 mois à partir du 2 février 2026.** [cite: 3]
+🚀 **À la recherche d'un Stage de Fin d'Études (PFE) de 4 à 6 mois à partir du 2 février 2026.**
 
 ---
 
@@ -36,18 +36,44 @@
 
 Retrouvez les démos interactives et détails techniques sur mon **[Portfolio](https://sohaib-laarichi.netlify.app/)**.
 
-* [cite_start]**Mikhamdina Platform** (Stage) : Plateforme de mise en relation freelances/entreprises (MERN Stack & Next.js)[cite: 31, 32].
-* [cite_start]**Portfolio V2** : Site personnel développé avec Next.js 15, TypeScript et Framer Motion (SSR & i18n)[cite: 55].
-* [cite_start]**Student Management API** : API REST avec Spring Boot 3, documentée via Swagger et conteneurisée[cite: 56].
-* [cite_start]**Pharmalive** : Gestion de stock et ventes (Spring Boot & PostgreSQL)[cite: 58].
+#### [🚀 Mikhamdina Platform](https://sohaib-laarichi.netlify.app/)
+> **Stage chez HA Groupe**
+Plateforme de mise en relation entre freelances et entreprises.
+* **Stack :** Node.js, Next.js, MongoDB, Tailwind CSS.
+
+#### [🌐 Portfolio V2](https://sohaib-laarichi.netlify.app/)
+Portfolio personnel moderne axé sur la performance.
+* **Features :** Server Side Rendering (SSR), Internationalisation (i18n), Back-office léger.
+* **Stack :** Next.js 15, TypeScript, Tailwind, Framer Motion.
+
+#### [🎓 Student Management API](https://github.com/Sohaib-Laarichi)
+API REST complète pour la gestion universitaire.
+* **Features :** CRUD complet, Documentation Swagger, Conteneurisation.
+* **Stack :** Spring Boot 3, JPA, MySQL, Docker.
+
+#### [💊 Pharmalive](https://github.com/Sohaib-Laarichi)
+Application de gestion de stock et de ventes pharmaceutiques.
+* **Stack :** Spring Boot, PostgreSQL.
 
 ---
 
 ### 📜 Certifications
 
-* [cite_start]**Coursera :** Introduction aux conteneurs avec Docker, Kubernetes et OpenShift[cite: 22, 23, 24].
-* [cite_start]**Microsoft :** Réseaux virtuels dans Azure & Sécurité Microsoft 365[cite: 44, 45].
-* [cite_start]**Google Cloud :** Microservices Java évolutifs avec Spring Boot et Spring Cloud[cite: 46].
+J'investis continuellement dans ma formation pour rester à jour sur les meilleures pratiques.
+
+**Développement & Architecture**
+* 🏅 **Advanced Spring Cloud Microservices & Deployment with Docker** - *Packt*
+* 🏅 **Introduction to Java and Object-Oriented Programming** - *University of Pennsylvania*
+* 🏅 **React Basics** - *Meta*
+
+**Cloud & DevOps**
+* ☁️ **Introduction to Containers w/ Docker, Kubernetes & OpenShift** - *IBM*
+* ☁️ **Introduction to Cloud Computing** - *IBM*
+* ☁️ **Virtual Networks in Azure** - *Whizlabs*
+
+**Sécurité & Data**
+* 🛡️ **Introduction to Cybersecurity Careers** - *IBM*
+* 🤖 **Introduction to Machine Learning** - *Duke University*
 
 ---
 
@@ -63,9 +89,9 @@ Retrouvez les démos interactives et détails techniques sur mon **[Portfolio](h
 Si mon profil vous intéresse pour un PFE ou une collaboration :
 
 * 🌐 **Portfolio :** [sohaib-laarichi.netlify.app](https://sohaib-laarichi.netlify.app/)
-* [cite_start]💼 **LinkedIn :** [linkedin.com/in/laarichi-sohaib](https://www.linkedin.com/in/laarichi-sohaib) [cite: 8]
-* [cite_start]📧 **Email :** sohaiblaarichi112@gmail.com [cite: 6]
-* [cite_start]📍 **Localisation :** Marrakech, Maroc [cite: 7]
+* 💼 **LinkedIn :** [linkedin.com/in/laarichi-sohaib](https://www.linkedin.com/in/laarichi-sohaib)
+* 📧 **Email :** sohaiblaarichi112@gmail.com
+* 📍 **Localisation :** Marrakech, Maroc
 
 ---
 *Généré avec passion pour le code.*
