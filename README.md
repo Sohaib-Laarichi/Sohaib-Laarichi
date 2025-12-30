@@ -77,12 +77,6 @@ J'investis continuellement dans ma formation pour rester à jour sur les meilleu
 
 ---
 
-### 📈 GitHub Stats
-
-![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohaib-Laarichi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib-Laarichi&layout=compact&theme=radical)
-
----
 
 ### 📫 Me Contacter
 
