@@ -6,7 +6,7 @@
 
 Actuellement étudiant en 5ème année à l'EMSI Marrakech, je conçois des applications web modernes, robustes et scalables. Je combine une expertise en **Frontend (React/Next.js)** et en **Backend (Spring Boot/Node.js)** avec une forte sensibilité pour le DevOps et le Cloud.
 
-🚀 **À la recherche d'un Stage de Fin d'Études (PFE) de 4 à 6 mois à partir du 2 février 2026.**
+
 
 ---
 
