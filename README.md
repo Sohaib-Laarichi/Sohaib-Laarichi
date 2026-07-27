@@ -82,7 +82,7 @@ J'investis continuellement dans ma formation pour rester à jour sur les meilleu
 
 Si mon profil vous intéresse pour un PFE ou une collaboration :
 
-* 🌐 **Portfolio :** [sohaib-laarichi.netlify.app](https://sohaib-laarichi.netlify.app/)
+* 🌐 **Portfolio :** [sohaib-laarichi](https://www.sohaiblaarichi.tech/)
 * 💼 **LinkedIn :** [linkedin.com/in/laarichi-sohaib](https://www.linkedin.com/in/laarichi-sohaib)
 * 📧 **Email :** sohaiblaarichi112@gmail.com
 * 📍 **Localisation :** Marrakech, Maroc
